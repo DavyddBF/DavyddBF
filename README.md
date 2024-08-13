@@ -19,6 +19,9 @@ Seja bem-vindo ao meu perfil no github!! Fique a vontade para olhar meus reposit
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+Um dos meus portifólios:
+https://oneflix-davyddbf.netlify.app/
+
 Apaixonado por tecnologia e Games!! 
 
 Que a força esteja com você!!
